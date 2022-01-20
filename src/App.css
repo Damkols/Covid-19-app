@@ -1,0 +1,7 @@
+.App {
+  background: red;
+}
+.image {
+  display: flex;
+  justify-content: center;
+}
